@@ -1,6 +1,16 @@
-# todoapp
+# Flutter ToDoApp ✅
 
-A new Flutter project.
+A simple ToDo app built with Flutter + Bloc + SharedPreferences.
+
+---
+
+## 📥 Download APK
+You can download the latest version of the app here:
+
+👉 [Download APK](https://github.com/abdelrahman-hossieny/Flutter_ToDoApp/releases/download/v1.0.0/app-release.apk)
+
+---
+
 
 ## Getting Started
 
