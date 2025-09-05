@@ -9,7 +9,7 @@ android {
     namespace = "com.todoapp.example.todoapp"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = "27.0.12077973"
-    compileSdk = flutter.compileSdkVersio
+    compileSdk = flutter.compileSdkVersion
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
